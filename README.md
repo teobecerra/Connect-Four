@@ -11,7 +11,7 @@ Here is an image from Justin Kim's original:
 
 ## Personal additions
 
-I wanted the player to be able to see exactly where their next marker would be placed, so instead of highlighting the column like the tutorial I now show a preview with low opacity and dashed border to illustrate where the players marker will be placed.
+I wanted the player to be able to see exactly where their next marker would be placed, so instead of showing the players marker above the column the marker will be placed in like in the tutorial I now show a preview with low opacity and dashed border to illustrate where the players marker will be placed.
 
 ![](images/addition.png)
 
