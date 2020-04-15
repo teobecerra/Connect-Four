@@ -1,22 +1,22 @@
 # Connect-Four
-First project in JavaScript, followed a tutorial and customized some functionality to my liking
+First project in JavaScript, followed a tutorial and added some of my own functionality. For educational purposes.
 
-## Getting Started
+I followed Justin Kims tutorial on youtube:
 
-To enjoy a game of Connect Four, simply open index.hmtl in your prefered browser.
+https://www.youtube.com/watch?v=Hi5hEH1KNEc
 
-### About the project
+Here is an image from Justin Kim's original:
 
-I wanted to start somewhere with JS and decided that a simple game of Connect Four would be as good a place as any to start.
+![](images/original.png)
 
-I wrote the following a tutorial by Justin Kim: 
-( https://www.youtube.com/watch?v=Hi5hEH1KNEc&feature=youtu.be ),
-and applied some of my changes.
+## Personal additions
 
-Since I wanted the player to be able to see exactly where their next marker would be placed I implemented some other functionality than provided by the tutorial.
+I wanted the player to be able to see exactly where their next marker would be placed, so instead of highlighting the column like the tutorial I now show a preview with low opacity and dashed border to illustrate where the players marker will be placed.
 
-The tutorial shows the player which column the marker will be dropped into, I changed this to show the player exactly where the marker will be placed instead.
+![](images/addition.png)
+
+
 
 ## Acknowledgments
 
-* Hat tip to to Justin Kim for creating a kickass tutorial
+* Hat tip to to Justin Kim for creating the tutorial
